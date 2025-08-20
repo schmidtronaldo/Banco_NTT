@@ -1,4 +1,6 @@
----
+# Bootcamp: NTT-Data com java para Iniciantes
+
+# Creditos: Digital Innovation One, NTT-DATA, professores e colegas de bootcamp
 
 # 💻 Projeto Prático: Criando um Aplicativo de Controle de Transações Bancárias com Java e POO
 
