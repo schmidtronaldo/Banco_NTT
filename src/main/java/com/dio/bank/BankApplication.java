@@ -1,13 +1,14 @@
-package com.dio.ntt.banco.Banco_NTT;
+package com.dio.bank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BancoNttApplication {
+public class BankApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BancoNttApplication.class, args);
+
+		SpringApplication.run(BankApplication.class, args);
 	}
 
 }

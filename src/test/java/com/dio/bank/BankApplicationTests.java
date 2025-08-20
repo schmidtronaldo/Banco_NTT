@@ -1,10 +1,10 @@
-package com.dio.ntt.banco.Banco_NTT;
+package com.dio.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BancoNttApplicationTests {
+class BankApplicationTests {
 
 	@Test
 	void contextLoads() {
